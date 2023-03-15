@@ -1,0 +1,30 @@
+Number:
+
+
+Priority:
+
+
+Severity:
+
+
+Operating system:
+
+
+Device:
+
+
+Title:
+
+
+Description: 
+
+
+Steps to reproduce:
+
+
+Expected result:
+
+
+Actual result:
+
+
